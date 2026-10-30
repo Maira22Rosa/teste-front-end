@@ -29,3 +29,7 @@ Segue abaixo as instruções para a execução do teste.
 - Alcance dos objetivos propostos
 
 **Boa sorte! ;)**
+
+
+## Para compilar
+- Rode npm run dev
